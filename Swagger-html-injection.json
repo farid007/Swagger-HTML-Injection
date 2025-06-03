@@ -1,9 +1,9 @@
 {
-    "url": "https://gist.githubusercontent.com/zenelite123/61360869361ff88d7ce3aec863be7785/raw/227f1d30bb292b1d981b30277236c52acb98ae88/test.yaml",
+    "url": "https://raw.githubusercontent.com/farid007/Swagger-HTML-Injection/refs/heads/main/Swagger-html-injection.yaml",
     "urls": [
         {
-            "url": "https://gist.githubusercontent.com/zenelite123/61360869361ff88d7ce3aec863be7785/raw/227f1d30bb292b1d981b30277236c52acb98ae88/test.yaml",
-            "name": "Test"
+            "url": "https://raw.githubusercontent.com/farid007/Swagger-HTML-Injection/refs/heads/main/Swagger-html-injection.yaml",
+            "name": "HTML Injection"
         }
     ]
 }
